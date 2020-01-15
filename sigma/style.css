@@ -16,7 +16,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     animation: stroke-animation 6s ease forwards;
-    animation: fill-animation 2s ease forwards 5s;
+    animation: fill-animation 2s ease forwards 3.5s;
 
 }
 
